@@ -5,7 +5,7 @@ import 'package:flutter_animate/flutter_animate.dart';
 // ─────────────────────────────────────────────────────────────
 // ENTRY — swap GuideConfig.farm / GuideConfig.festival
 // ─────────────────────────────────────────────────────────────
-void main() => runApp(GuideApp(config: GuideConfig.farm));
+void main() => runApp(GuideApp(config: GuideConfig.festival));
 
 // ─────────────────────────────────────────────────────────────
 // DOMAIN / CONFIG
